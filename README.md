@@ -7,7 +7,7 @@ This is a simple extension for Phantombot, allowing you to easily create user-sp
 ✅ No need to create individual commands for every user. Keeps your command list clean.  
 ✅ One single command for everyone to use.  
 ✅ Multiple sounds per user are possible.  
-✅ No additional setup. Just feed the bot with your sounds and it will handle the rest for you.  
+✅ No additional setup. Just feed the bot with your sounds and it will handle the rest for you automatically.  
   
   
 ## Get started  
